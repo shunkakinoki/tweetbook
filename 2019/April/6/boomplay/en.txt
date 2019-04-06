@@ -1,0 +1,10 @@
+Boomplay
+
+African Based Spotify & Netflix Clone
+
+1. Backed up by NetEase from China
+2. Young Demographic - 1.2 Billion People with Average Age of 21
+3. "Chinese investors see Africa as the China of 10 years ago"
+
+Source:
+https://techcrunch.com/2019/04/05/boomplay-a-spotify-style-music-and-video-streaming-service-for-african-music-and-africa-raises-20m/

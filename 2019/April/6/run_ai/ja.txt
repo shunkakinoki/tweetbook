@@ -1,0 +1,9 @@
+run.ai
+ディープラーニングの学習を仮想化により高速化を実現するイスラエル企業
+
+1.シリーズAで1300万ドルを調達
+2.最大10倍も高速
+3."Abstraction Layer"による効率化
+
+Source:
+https://venturebeat.com/2019/04/03/runai-raises-13-million-to-train-ai-models-efficiently/

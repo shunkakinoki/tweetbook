@@ -1,0 +1,10 @@
+Boomplay
+
+アフリカベースのSpotifyとNetflixクローン
+
+1. 中国のNetEaseによるバックアップ
+2. 高いポテンシャル - 総人口12億人・平均年齢21歳
+3. 「中国の投資家はアフリカを10年前の中国と見なしている」
+
+Source:
+https://techcrunch.com/2019/04/05/boomplay-a-spotify-style-music-and-video-streaming-service-for-african-music-and-africa-raises-20m/
