@@ -1,0 +1,9 @@
+Sqreen
+平台应用安全管理服务
+
+1.系列赛一轮1400万美元
+2.提高Web应用程序和云基础架构的安全性
+3.与Node.js，Ruby，Php，Python，Java和Go中的Web应用程序一起使用
+
+Source:
+https://techcrunch.com/2019/04/02/sqreen-raises-14-million-for-its-application-security-management-service/

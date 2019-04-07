@@ -1,0 +1,9 @@
+Sqreen
+ウェブアプリケーションセキュリティ管理サービス
+
+1. 1400万ドルのシリーズAラウンド
+2. Webアプリケーションとクラウドインフラストラクチャのセキュリティを向上を実現
+3. Node.js、Ruby、Php、Python、Java、GoなどのWebアプリケーションと連携可能
+
+Source:
+https://techcrunch.com/2019/04/02/sqreen-raises-14-million-for-its-application-security-management-service/

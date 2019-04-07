@@ -1,0 +1,9 @@
+Sqreen
+Platform Application Security Management Service
+
+1. Series a round of $14 Million
+2. Improve Security in Web Applications and Cloud Infrastructures
+3. Works with Web Applications in Node.js, Ruby, Php, Python, Java and Go
+
+Source:
+https://techcrunch.com/2019/04/02/sqreen-raises-14-million-for-its-application-security-management-service/
